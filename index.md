@@ -1,4 +1,4 @@
-## Dedovich F.S.
+# **Dedovich Fiodar Sergeevich**
 
 ![fedya png](https://user-images.githubusercontent.com/107990040/175014981-7cbf1299-e026-4b33-8e5a-530fc7cac52d.jpg)
 
@@ -10,9 +10,15 @@ Male,23 years old,born on 28 June 1998.
 
 fedor.dedovich@mail.ru
 
-### Junior Python Developer
+#  Junior Python Developer 
 
-## _Skills_ 
+ **Languages**: 
+
+ -Russian(Native)
+ 
+ -Belarussian (Native)
+ 
+ -English (Upper Intermediate)
 
 
 ```markdown
