@@ -1,12 +1,19 @@
 ## Dedovich F.S.
 
-You can use the [editor on GitHub](https://github.com/fedyaded/fedyaded.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](src=)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Male,23 years old,born on 28 June 1998.
 
-### Markdown
++375 (33) 343-19-65
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+@fedyaded - [Telegram](https://t.me/fedyaded), [GitHub](https://github.com/fedyaded), [Instagram](https://www.instagram.com/fedyaded/)
+
+fedor.dedovich@mail.ru
+
+### Junior Python Developer
+
+## _Skills_ 
+
 
 ```markdown
 Syntax highlighted code block
