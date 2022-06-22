@@ -12,7 +12,7 @@ fedor.dedovich@mail.ru
 
 #  Junior Python Developer 
 
- **Languages**: 
+ ### **Languages**: 
 
     -Russian(Native)
  
