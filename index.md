@@ -1,9 +1,7 @@
 # **Dedovich Fiodar Sergeevich**
 
-<p align='right'>
-   <img width="200px"src=https://user-images.githubusercontent.com/107990040/175014981-7cbf1299-e026-4b33-8e5a-530fc7cac52d.jpg>
+
  
-<p align="left">
  
 Male,23 years old,born on 28 June 1998.
 
