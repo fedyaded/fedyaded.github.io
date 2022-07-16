@@ -54,6 +54,7 @@
                         <li>SQL <small>(Almost anything (joins, unions, subqueries, database updates) or could be easily found in documentation)</small></li>
                         <li>MongoDB <small>(Basic querying)</small></li>
                     </ul>
+                    <span class="badge badge-secondary">Python</span>
                     <span class="badge badge-secondary">HTML</span>
                     <span class="badge badge-secondary">Git</span>
                     <span class="badge badge-secondary">HTTP</span>
@@ -71,31 +72,17 @@
                         <ul class="list-unstyled">
                             <li>
                                 <div class="row">
-                                    <div class="col-md-3">Quality Assurance Engineer <small>(FinTech)</small></div>
-                                    <div class="col-md-9">
-                                        <ul>
-                                            <li>Test documentation: check lists, automation scenarios, "how to" guides, technical descriptions of tasks</li>
-                                            <li>Task estimations</li>
-                                            <li>Production issues investigation and elimination/correction of negative consequences</li>
-                                            <li>Mostly backend and API testing</li>
-                                            <li>Android apps testing (Flutter)</li>
-                                            <li>3rd party services integration testing</li>
-                                            <li>Mock/Stubs for external APIs</li>
-                                            <li>Testing of bank transactions and payments functionality</li>
-                                        </ul>
-                                    </div>
+                            </li>
+                            <li>
+                                <div class="row">
+                                    <div class="col-md-4"><h6>Electronics Store - 5 Element<a href="https://bck.by/">bck.by</a></h6></div>
+                                    <div class="col-md-8">as Consultant</div>
                                 </div>
                             </li>
                             <li>
                                 <div class="row">
-                                    <div class="col-md-4"><h6>Belarusian Cement Company <a href="https://bck.by/">bck.by</a></h6></div>
-                                    <div class="col-md-8">as Economist / Accountant in sales department</div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="row">
-                                    <div class="col-md-4"><h6>Baranovichi Reinforced Concrete Factory <a href="http://zhelezobeton.by/">zhelezobeton.by</a></h6></div>
-                                    <div class="col-md-8">as Operator (ERP Galaktika), Economist  in sales department</div>
+                                    <div class="col-md-4"><h6>Baranovichi housing and communal services <a href="http://zhelezobeton.by/">zhelezobeton.by</a></h6></div>
+                                    <div class="col-md-8">as Oven Controller</div>
                                 </div>
                             </li>
 
@@ -153,8 +140,8 @@
         let expIDF = countExp(new Date(2022, 5, 28), new Date());
         document.getElementById("expYit").innerHTML = expIDF.y;
         document.getElementById("expMit").innerHTML = expIDF.m;
-        let expRCF = countExp(new Date(2017, 5, 1), new Date(2018, 0, 3));
-        let expBCC = countExp(new Date(2018, 0, 3), new Date(2021, 0, 3));
+        let expRCF = countExp(new Date(2017, 5, 1), new Date(2018, 0, 9));
+        let expBCC = countExp(new Date(2018, 0, 9), new Date(2019, 0, 9));
         let totalExpM = expRCF.m + expBCC.m + expIDF.m;
         let fullY = Math.floor(totalExpM/12);
         if (fullY > 0) {
