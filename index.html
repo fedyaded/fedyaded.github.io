@@ -72,13 +72,13 @@
                             </li>
                             <li>
                                 <div class="row">
-                                    <div class="col-md-4"><h6>Electronics Store - 5 Element<a href="https://bck.by/">bck.by</a></h6></div>
+                                    <div class="col-md-4"><h6>Electronics Store - 5 Element<a href="https://5element.by/">5element.by</a></h6></div>
                                     <div class="col-md-8">as Consultant</div>
                                 </div>
                             </li>
                             <li>
                                 <div class="row">
-                                    <div class="col-md-4"><h6>Baranovichi housing and communal services <a href="http://zhelezobeton.by/">zhelezobeton.by</a></h6></div>
+                                    <div class="col-md-4"><h6>Baranovichi housing and communal services <a href="https://jreubar.by/">jreubar.by</a></h6></div>
                                     <div class="col-md-8">as Oven Controller</div>
                                 </div>
                             </li>
@@ -137,8 +137,8 @@
         let expIDF = countExp(new Date(2022, 5, 28), new Date());
         document.getElementById("expYit").innerHTML = expIDF.y;
         document.getElementById("expMit").innerHTML = expIDF.m;
-        let expRCF = countExp(new Date(2017, 5, 1), new Date(2018, 0, 9));
-        let expBCC = countExp(new Date(2018, 0, 9), new Date(2019, 0, 9));
+        let expRCF = countExp(new Date(2018, 5, 1), new Date(2019, 0, 9));
+        let expBCC = countExp(new Date(2019, 0, 9), new Date(2022, 0, 9));
         let totalExpM = expRCF.m + expBCC.m + expIDF.m;
         let fullY = Math.floor(totalExpM/12);
         if (fullY > 0) {
