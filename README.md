@@ -29,7 +29,7 @@ fedor.dedovich@mail.ru
 
 # **Work Expierence**:
     
-* 2 month of Python developer course (*Telegram Bot, Web-sites*)
+* 3 month of Python developer course (*Telegram Bot, Web-sites*)
     
 * Adobe Photoshop, Sony Vegas (*1 year*)
   
